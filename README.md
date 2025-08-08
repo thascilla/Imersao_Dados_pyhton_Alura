@@ -14,4 +14,6 @@ Durante o aprendizado, foram aplicadas técnicas como:
 
 *Publicação do projeto no Streamlit.io para visualização interativa dos resultados diretamente em um site.
 
+link do projeto: https://imersao-dados-pythonalura2025.streamlit.app/
+
 O projeto consolidou habilidades práticas em Python para análise de dados, desde a preparação até a apresentação visual.
